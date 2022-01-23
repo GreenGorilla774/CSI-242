@@ -1,0 +1,5 @@
+passcodes: Double Edged, Kitten
+Participation: I attended in person both Tuesday and Thursday. I asked questiuons in class, and went to listen to the guest speaker, Evan.
+self directed learning: I went through conditionals and variables. I will have functions done by Tuesday to show you after class
+Project: I got the layout of my calculator finished
+Extra Credit: I went and listened to the guest speaker Evan. Code: Rabbit
