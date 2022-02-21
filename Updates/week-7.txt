@@ -1,4 +1,4 @@
-passcodes: Chariot, Notebook
+passcodes: Toad, Deep
 Participation: I had my camera on on Tuesday, and attended in person on Thursday. I also asked a question during Tuesday's lecture.
 self directed learning: I didn't do anything for SDL
 Project: I began to work on my game. I am making a game where the player is a Thief sneaking around a house. 
