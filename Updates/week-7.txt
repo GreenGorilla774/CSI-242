@@ -1,0 +1,7 @@
+passcodes: Chariot, Notebook
+Participation: I had my camera on on Tuesday, and attended in person on Thursday. I also asked a question during Tuesday's lecture.
+self directed learning: I didn't do anything for SDL
+Project: I began to work on my game. I am making a game where the player is a Thief sneaking around a house. 
+I am having trouble getting the right asssests to load in, but once I do, my next big issue will be getting gaurds set up. 
+I am also working on getting the sprites to be animated. It's extra work, but I want my game to look cool.
+Extra Credit: N/A i think.
