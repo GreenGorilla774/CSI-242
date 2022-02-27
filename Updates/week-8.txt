@@ -1,0 +1,5 @@
+passcodes: Whisper, Lux
+Participation: I attended in person on Tuesday, and had my camera on on Thursday.
+self directed learning: I didn't do anything for SDL
+Project: I have finished my game. 
+Extra Credit: N/A
