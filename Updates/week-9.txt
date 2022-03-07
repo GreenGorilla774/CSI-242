@@ -1,0 +1,5 @@
+passcodes: Bakufu, Sekigahara
+Participation: I attended via zoom both Tuesday and Thursday. I also asked questions.
+self directed learning: I didn't do anything for SDL
+Project: I started on my final. I added the reload function, which was easier than I thought, but was still fun to do.
+Extra Credit:I attended the tech talk on Thursday.   
