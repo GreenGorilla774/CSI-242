@@ -1,0 +1,5 @@
+passcodes: Ball Python, Viper
+Participation: I attended via zoom on Tuesday and had the camera on. On Thursday I went in person and asked questions. 
+self directed learning: I didn't do anything for SDL
+Project: I have made some progress with my game. THe hardest thing is going to add the animations, but I knwo that once I get it right, It will be super cool.
+Extra Credit: N/A 
