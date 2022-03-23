@@ -1,0 +1,6 @@
+
+passcodes: Admiral, Wolf
+Participation: I attended via zoom both Tuesday and Thursday. I also asked questions.
+self directed learning: I didn't do anything for SDL
+Project: I am almost done with the final. I am having trouble with sorting the code into seperate files. I will send in a file with what I had gotten. 
+Extra Credit:N/A 
